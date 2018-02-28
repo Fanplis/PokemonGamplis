@@ -1,5 +1,3 @@
-# See the documentation on the wiki to learn how to edit this file.
-#-------------------------------
 BUTTERFREE=SHADOWRUSH,SHADOWMIST
 BEEDRILL=SHADOWBLITZ,SHADOWHOLD
 PIDGEOTTO=SHADOWBLITZ,SHADOWPANIC

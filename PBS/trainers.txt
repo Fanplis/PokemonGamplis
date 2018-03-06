@@ -27,7 +27,7 @@ ELECTABUZZ,20,,,,,,,,,,,,,,true
 YOUNGSTER
 Ben
 2
-RATTATA,11
+JUANJOPLANTA,5,,,,,,1,F
 EKANS,11
 #-------------------
 CAMPER

@@ -1,4 +1,3 @@
-﻿# To localize this text for a particular language, please
 # translate every second line of this file.
 [Map0]
 ......\wt[5] ......
@@ -44,25 +43,25 @@ No
 [Map1]
 <ac>\c[8]\l[3](Para obtener más\ninformación, consulta la\nPokémon Essentials Wiki.)
 <ac>\c[8]\l[3](Para obtener más\ninformación, consulta la\nPokémon Essentials Wiki.)
-\b¡Hola! ¡Perdona por la espera!
 \b¡Hola! ¡Perdonad por haceros esperar un año!
-\b¡Estás en el mundo de los Pokémon!
+\b¡Hola! ¡Perdonad por haceros esperar un año!
 \b¡Bienvenidos a Pokémon Gamplis!
-\bMi nombre es Oak.
+\b¡Bienvenidos a Pokémon Gamplis!
 \bMi nombre es Juanjo.
-\bLa gente me llama el Profesor Pokémon.
+\bMi nombre es Juanjo.
 \bLa gente me llama Mister Animal o Mister Juanjo.
-\bAntes de seguir...\nDime.\n¿Es ésta tu primera vez?\nPuedo hablarte de todo lo que necesites saber de este mundo.
+\bLa gente me llama Mister Animal o Mister Juanjo.
+\bAntes de seguir...\nDime.\n¿Es ésta tu primera vez?
 \bAntes de seguir...\nDime.\n¿Es ésta tu primera vez?
 \bMuy bien, sin mas vueltas...
 \bMuy bien, sin mas vueltas...
-<ac>\c[0]\l[3]Estás a punto de sumergirte en un mundo lleno de aventuras de las que vas a ser protagonista.
 <ac>\c[0]\l[3]Estáis a punto de sumergiros en un mundo lleno de memes forzados de los que váis a ser protagonistas. Ésto es culpa vuestra.
-<ac>\c[0]\l[5]Habla con la gente y curiosea todo lo que te llame la atención, estés donde estés. Consigue información y pistas de todo lo que te rodee.
+<ac>\c[0]\l[3]Estáis a punto de sumergiros en un mundo lleno de memes forzados de los que váis a ser protagonistas. Ésto es culpa vuestra.
+<ac>\c[0]\l[5]Hablad con la gente y curiosead todo, que hemos hecho esto para algo. Si hay algún diálogo que no haga gracia, echadle la culpa a Sergoo.
 <ac>\c[0]\l[5]Hablad con la gente y curiosead todo, que hemos hecho esto para algo. Si hay algún diálogo que no haga gracia, echadle la culpa a Sergoo.
 <ac>\c[0]\l[3]Cuando ayudes a alguien, superes desafíos y resuelvas misterios, se abrirán ante ti nuevos caminos.
 <ac>\c[0]\l[3]Cuando ayudes a alguien, superes desafíos y resuelvas misterios, se abrirán ante ti nuevos caminos.
-<ac>\c[0]\l[7]En ocasiones, otras personas te retarán a un combate.\nY también encontrarás criaturas salvajes en tu camino.\n\nSuperando esos obstáculos, irás adquiriendo un gran poder.
+<ac>\c[0]\l[7]En ocasiones, chistes internos te retarán a un combate.\nY también encontrarás más chistes internos (que son capturables) en tu camino.\n\nSuperando esos obstáculos, irás adquiriendo un gran poder.
 <ac>\c[0]\l[7]En ocasiones, chistes internos te retarán a un combate.\nY también encontrarás más chistes internos (que son capturables) en tu camino.\n\nSuperando esos obstáculos, irás adquiriendo un gran poder.
 <ac>\c[0]\l[2]Pero el objetivo de esta aventura no es acumular poder.
 <ac>\c[0]\l[2]Pero el objetivo de esta aventura no es acumular poder.
@@ -84,10 +83,10 @@ No
 \bBueno, ¿qué te parece si ahora me cuentas algo sobre tí?\n¿Eres un chico o una chica?
 \bAhora, ¿cuál me dijiste que es tu nombre?
 \bAhora, ¿cuál me dijiste que es tu nombre?
-\b¿Te llamas \PN?
-\b¿Te llamas \PN?
-\b¿Cuál es tu nombre?
-\b¿Cuál es tu nombre?
+\b¿Os gusta el apodo \PN?
+\b¿Os gusta el apodo \PN?
+\b¿Cómo os vais a llamar?
+\b¿Cómo os váis a llamar?
 \bMuy bien, \PN. Ha llegado el momento.
 \bMuy bien, \PN. Ha llegado el momento.
 \b¡Tu propia leyenda Pokémon está a punto de comenzar!
@@ -100,13 +99,13 @@ No
 \bDisfruta el Paquete de Inicio. Deberías dar créditos cuando lo utilices.
 Controles
 Controles
-Aventura
-Aventura
-No necesito nada
-No necesito nada
-Chico
+IMPORTANT INFO
+IMPORTANT INFO
+Dejadnos jugar ya
+Dejadnos jugar ya
 Peyvol
-Chica
+Peyvol
+Inter
 Inter
 Si
 Si

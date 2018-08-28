@@ -9,7 +9,7 @@ WildBattleBGM=002-Battle02.mid
 [001]
 # Intro
 [002]
-# Pueblo Empanada
+# Pueblo Fresquito
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true
@@ -28,7 +28,6 @@ MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
-# Casa de Kurt
 MapPosition=0,13,11
 [007]
 # Ciudad Milanesa
@@ -37,7 +36,7 @@ MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 [008]
-# Casa de Belén
+# Casa de Rival
 MapPosition=0,13,12
 [009]
 # Centro Pokémon

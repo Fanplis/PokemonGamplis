@@ -1,5 +1,5 @@
 #########################
-002 # Pueblo Empanada
+002 # Pueblo Fresquito
 25,10,10
 Water
 TENTACOOL,14,19

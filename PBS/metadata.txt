@@ -24,6 +24,9 @@ MapPosition=0,13,12
 ShowArea=false
 [005]
 # Ruta 1
+MapSize=0,
+Weather=Sun,10
+Bicycle=true
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true

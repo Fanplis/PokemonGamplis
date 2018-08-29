@@ -2,10 +2,6 @@
 41,North,0,40,South,0
 # Ruta 5 (41) - Ruta 6 (45)
 41,South,6,45,North,0
-# Ruta 8 (69) - Zona Safari (66)
-69,North,0,66,South,10
-# Pueblo Fresquito (2) - Ruta 1 (5)
-2,West,0,5,East,1
 # Ciudad Milanesa (7) - Ruta 6 (44)
 7,West,5,44,East,0
 # Monte Plateado (35) - Ruta 4 (39)
@@ -26,3 +22,5 @@
 47,East,8,52,West,0
 # Ruta 2 (21) - Ruta 7 (47)
 21,East,77,47,West,0
+# Pueblo Fresquito (2) - Ruta 1 (5)
+2,West,0,5,East,1

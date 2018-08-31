@@ -22,5 +22,11 @@
 47,East,8,52,West,0
 # Ruta 2 (21) - Ruta 7 (47)
 21,East,77,47,West,0
+# Ruta 1 (6) - Ruta 1 (5)
+6,East,15,5,West,0
 # Pueblo Fresquito (2) - Ruta 1 (5)
 2,West,0,5,East,1
+# Ruta 1 (6) - Pueblo Juanjo (22)
+6,North,0,22,South,12
+# Puerto Juanjo (32) - Pueblo Juanjo (22)
+32,East,0,22,West,5

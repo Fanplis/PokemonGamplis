@@ -31,7 +31,6 @@ MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
-# Ruta 1
 MapPosition=0,13,11
 [007]
 # Ciudad Milanesa
@@ -87,6 +86,10 @@ Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
+[022]
+# Pueblo Juanjo
+Outdoor=true
+ShowArea=true
 [023]
 # Pueblo Lomito
 MapPosition=0,15,8
@@ -122,6 +125,14 @@ MapPosition=0,16,8
 # Ruta 3
 MapSize=2,1101
 MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[032]
+# Puerto Juanjo
+Outdoor=true
+ShowArea=true
+[033]
+# Ruta 1
 Outdoor=true
 ShowArea=true
 [034]

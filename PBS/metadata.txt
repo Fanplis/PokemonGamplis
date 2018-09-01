@@ -31,7 +31,9 @@ MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
+# Puerto juanjo puente
 MapPosition=0,13,11
+Outdoor=true
 [007]
 # Ciudad Milanesa
 MapSize=2,11
